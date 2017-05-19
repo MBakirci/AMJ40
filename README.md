@@ -4,8 +4,8 @@ Custom keymap for AMJ40
 In this repository I also add my own tutorial: How to flash AMJ40
 
 ## TODO
- --[x] Upload all necessary files
- --[-] Tutorials
+ - [x] Upload all necessary files
+ - [ ] Tutorials
 
 
 ## Base Layer (Layer0)
@@ -18,10 +18,11 @@ In this repository I also add my own tutorial: How to flash AMJ40
  
  
  ## Tutorials
+ 
  ### Create your own layout
- --[-] Keyboard Layout Editor
- --[-] TMK Keymap Generator
+ - [ ] Keyboard Layout Editor
+ - [ ] TMK Keymap Generator
  
  ### Flashing
- --[-] Flash on Windows
- --[-] Flash on Linux
+ - [ ] Flash on Windows
+ - [ ] Flash on Linux
